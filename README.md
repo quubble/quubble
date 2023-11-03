@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![An image of @quubble's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/quubble)](https://holopin.io/@quubble)
+[![An image of @quubble's Holopin badges, which is a link to view their full Holopin profile Hactoberfest 2023](https://holopin.me/quubble)](https://holopin.io/@quubble)
 
 
